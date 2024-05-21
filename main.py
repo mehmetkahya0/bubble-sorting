@@ -7,7 +7,6 @@ class BubbleSort:
     def __init__(self):
         self.root = tk.Tk()
         self.root.title("Bubble Sort Visualization")
-
         # Üst bilgi (Header)
         header_font = tkFont.Font(family="Helvetica", size=12, weight="bold")
         self.header_label = tk.Label(self.root, text="Bubble Algorithm by Mehmet Kahya", font=header_font, pady=10)
