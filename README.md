@@ -28,14 +28,14 @@ pip install matplotlib
 Clone the repository and navigate to the project directory:
 
 ```sh
-git clone https://github.com/username/bubble-sort-visualization.git
-cd bubble-sort-visualization
+git clone https://github.com/username/bubble-sorting.git
+cd bubble-sorting
 ```
 
 Run the script:
 
 ```sh
-python bubblesort_visualization.py
+python main.py
 ```
 
 ## Code Overview
